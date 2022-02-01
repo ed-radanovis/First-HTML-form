@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 2</title>
+</head>
+
+<body>
+    <form action="" method="post" enctype="multipart/form-data">
+
+        <fieldset>
+
+            <legend>Cadastro</legend>
+
+            <label>Nome
+                <br>
+                <input type="text" name="nome" placeholder="Name" required>
+            </label>
+            <br>
+            <br>
+
+            <label>Email
+                <br>
+                <input type="email" name="email" placeholder="E-mail" required>
+            </label>
+            <br>
+            <br>
+
+            <label>Idade
+                <br>
+                <input type="number" name="idade" min="12" step="1" placeholder="Age" style="width:60px" required>
+            </label>
+            <br>
+            <br>
+
+            <label>Data de Nascimento
+                <br>
+                <input type="date" name="data-nascimento" style="width:170px" required >
+            </label>
+            <br>
+            <br>
+
+            <label>Onde você possui conta:
+                <br>
+                <input type="checkbox" name="conta" value="Instagran">Instagran
+                <input type="checkbox" name="conta" value="Facebook">Facebook
+                <input type="checkbox" name="conta" value="Youtube">Youtube
+            </label>
+            <br>
+            <br>
+
+            <label>Sexo
+                <br>
+                <input type="radio" name="sexo" value="Masculino" required>Masculino
+                <input type="radio" name="sexo" value="Feminino" required>Feminino
+            </label>
+            <br>
+            <br>
+
+            <label>Cor dos Olhos
+                <input type="color" name="cor-dos-olhos" value="#F1F1F1">
+            </label>
+            <br>
+            <br>
+
+            <label>Biografia
+                <br>
+                <textarea style="height:80px;width:250px;" name="biografia" ></textarea>
+            </label>
+            <br>
+            <br>
+
+            <label>Foto do perfil
+                <br>
+                <input type="file" name="foto-do-perfil" accept="image/*">
+            </label>
+            <br>
+            <br>
+
+            <label>Link do Perfil do Facebook
+                <br>
+                <input type="url" name="link" placeholder="Facebook adrress" >
+            </label>
+            <br>
+            <br>
+
+            <label>Senha
+                <br>
+                <input type="password" name="senha" placeholder="Password" minlength="6" maxlength="8" required>
+            </label>
+            <br>
+            <br>
+            
+            <button type="reset" name="botão-limpar" >Limpar</button>
+            <button type="submit" name="botão-enviar" >Enviar Dados</button>
+
+        </fieldset>
+
+    </form>
+
+</body>
+
+</html>
