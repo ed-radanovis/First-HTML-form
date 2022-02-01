@@ -27,6 +27,17 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="center">
+        <img src="./Logo DevClub.png" width="130px;" alt="Logo DevClub"/><br>
+        <sub>
+          <b>DevClub</b>
+        </sub>
+      </td><td align="center">
+        <img src="./Foto Rodolfo Mori.png" width="130px;" alt="Foto Rodolfo Mori"/><br>
+        <sub>
+          <b>Rodolfo Mori</b>
+        </sub>
+      </td>
   </tr>
 </table>
 
