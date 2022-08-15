@@ -1,45 +1,41 @@
-# First-HTML-form
-First HTML form
+# First HTML form
+<h3>Semi-finished academic project.</h3>
 
 <img src="./Assets/page image.png" alt="page-image" width="300px">
 
-> Resultado do projeto finalizado.
+> Partial result of the project.
 
-### Ajustes e melhorias
+### Adjustments and improvements.
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+The project is still in development and the next updates will focus on the following tasks:
 
-- [x] Criação do HTML
-- [ ] Criação do CSS
-- [ ] Criação do JS
-- [ ] Atualização do Layout
-## 🤝 Colaboradores
+- [x] HTML
+- [ ] CSS application
+- [ ] JS application
+- [ ] Layout update
+## 🤝 Collaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Thanks:
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ed-radanovis">
-        <img src="./Assets/my image.jpg" width="100px;" alt="Foto de Edmar Radanovis"/><br>
+      <a href="https://www.linkedin.com/in/edmar-radanovis-0130b611a/">
+        <img src="./Assets/foto perfil (4).jpeg" width="100px;" alt="Foto de Edmar Radanovis"/><br>
         <sub>
           <b>Edmar Radanovis</b>
         </sub>
       </a>
     </td>
     <td align="center">
-        <img src="./Logo DevClub.png" width="130px;" alt="Logo DevClub"/><br>
+       <a href="https://rodolfomori.com.br/devclub/">
+        <img src="./Assets/DevClub.png" width="130px;" alt="Logo DevClub"/><br>
         <sub>
           <b>DevClub</b>
         </sub>
-      </td><td align="center">
-        <img src="./Foto Rodolfo Mori.png" width="130px;" alt="Foto Rodolfo Mori"/><br>
-        <sub>
-          <b>Rodolfo Mori</b>
-        </sub>
-      </td>
+      </a>
   </tr>
 </table>
 
 
-[⬆ Voltar ao topo](First-HTML-form)<br>
+[⬆ Voltar ao topo](#first-html-form)<br>
