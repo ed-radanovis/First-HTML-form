@@ -13,7 +13,7 @@ The project is still in development and the next updates will focus on the follo
 - [ ] CSS application
 - [ ] JS application
 - [ ] Layout update
-## 🤝 Collaborators
+#### 🤝 Collaborators
 
 Thanks:
 
@@ -21,15 +21,15 @@ Thanks:
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/edmar-radanovis-0130b611a/">
-        <img src="./Assets/foto perfil (4).jpeg" width="100px;" alt="Foto de Edmar Radanovis"/><br>
+        <img src="./Assets/foto perfil (4).jpeg" width="50px;" alt="Foto de Edmar Radanovis"/><br>
         <sub>
-          <b>Edmar Radanovis</b>
+          <b>Edmar<br> Radanovis</b>
         </sub>
       </a>
     </td>
     <td align="center">
        <a href="https://rodolfomori.com.br/devclub/">
-        <img src="./Assets/DevClub.png" width="130px;" alt="Logo DevClub"/><br>
+        <img src="./Assets/DevClub.png" width="50px;" alt="Logo DevClub"/><br>
         <sub>
           <b>DevClub</b>
         </sub>
